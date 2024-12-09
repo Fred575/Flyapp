@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\eimantas.virksas\\source\\repos\\flightapp\\flightapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\flightapp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\flightapp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\eimantas.virksas\\source\\repos\\flightapp\\flightapp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\eimantas.virksas\\source\\repos\\flightapp\\flightapp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\eimantas.virksas\\source\\repos\\flightapp\\flightapp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\eimantas.virksas\\source\\repos\\flightapp\\flightapp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.flightapp.props",
+      "PackagePath": "build\\flightapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.flightapp.props",
+      "PackagePath": "buildMultiTargeting\\flightapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.flightapp.props",
+      "PackagePath": "buildTransitive\\flightapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.flightapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
